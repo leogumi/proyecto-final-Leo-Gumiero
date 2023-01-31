@@ -1,0 +1,11 @@
+.table-data {
+  padding-top: 150px;
+}
+.table-data__title {
+  text-align: center;
+  padding-bottom: 30px;
+}
+.table-data table {
+  width: 90%;
+  margin: 30px auto;
+}/*# sourceMappingURL=Table.css.map */

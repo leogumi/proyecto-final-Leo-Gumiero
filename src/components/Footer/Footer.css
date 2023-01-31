@@ -1,0 +1,30 @@
+footer {
+  background-color: #252527;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 25vh;
+  margin-top: 300px;
+}
+footer .social {
+  padding-top: 20px;
+}
+footer .social a .social-icons {
+  color: #2f6d88;
+}
+footer .social-github {
+  margin-right: 50px;
+}
+footer .social-linkedin {
+  margin-left: 50px;
+}
+footer .copyright {
+  text-align: center;
+  color: white;
+  padding: 40px 0px 20px;
+  font-size: 18px;
+}
+footer .copyright a {
+  text-decoration: none;
+}/*# sourceMappingURL=Footer.css.map */
