@@ -1,5 +1,5 @@
 {
-  "name": "sports-store",
+  "name": "nodejs",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -44,5 +44,20 @@
   },
   "devDependencies": {
     "@types/bootstrap": "^4.5.0"
-  }
+  },
+  "description": "## Descripción",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leogumi/proyecto-final-Leo-Gumiero.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leogumi/proyecto-final-Leo-Gumiero/issues"
+  },
+  "homepage": "https://github.com/leogumi/proyecto-final-Leo-Gumiero#readme"
 }
