@@ -28,8 +28,3 @@ Correr el servidor:
 Se abre una pestaña del navegador en el puerto 3000:
 
 ### Sino copiar esta URL y pegarla en el navegador: http://localhost:3000
-
-## Backend
-
-Recordar que tiene un backend realizado con Firebase, por si quieren descargar y correr este proyecto, tienen que generar su backend en firebase sino local con data fake.
-En el archivo .env.example estan las variables que deben ir para poder llenarlas con sus datos de Firebase
